@@ -1,11 +1,15 @@
-# Earth Drop Minting URL: <br>
-https://earthlingmint.nftearth.exchange or at this link: [Earthlings](https://earthlingmint.nftearth.exchange)
-# NFTEarth enters NFTFi on Arbitrum and Earthlings are LIVE!
+# Earthlings Mint URL:
 
-This repo contains the code for the frontend for one of the flagship NFT collections from NFTEarth on Arbitrum! 
+> https://earthlingmint.nftearth.exchange or at this link: [Earthlings](https://earthlingmint.nftearth.exchange)
 
-# Trade the NFT on: 
+# NFTEarth has entered NFTFi on Arbitrum and the Earthlings collection is LIVE!
 
-[NFTEarth](https://nftearth.exchange/collection/arbitrum/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c) |
-[OpenSea](https://opensea.io/collection/earthlings-nftearth)
+This repo contains the code for the frontend and more for one of the flagship NFT collections from NFTEarth on Layer2 network Arbitrum! 
 
+# Trade the NFT on these marketplaces: 
+
+[NFTEarth](https://nftearth.exchange/collection/arbitrum/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c) | [OpenSea](https://opensea.io/collection/earthlings-nftearth)
+
+## Earth Drop Allowlist
+
+All holders of the Earth Drop NFT have been added to on of the allowlist claim phases for the Earthling collection (56 unique addresses) and are eligible to mint the Earthling NFT as a free mint on Arbitrum.
