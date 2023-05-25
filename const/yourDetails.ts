@@ -1,5 +1,5 @@
 // Replace this with your contract address
-export const myEditionDropContractAddress: string = "0x8Aee2F6d1c426F46C55caC2b5c48fc9c44c8C634";
+export const myEditionDropContractAddress: string = "0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c";
 
 // Replace this with your token id
-export const tokenId: string = "0";
+export const tokenId: string = "3";
